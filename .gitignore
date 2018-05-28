@@ -1,0 +1,6 @@
+# Managed by Composer
+/vendor/
+composer.lock
+
+# IDEA Directory
+/.idea

@@ -1,0 +1,21 @@
+{
+    "name": "jk/php-xrp",
+    "description": "A PHP wrapper for the XRP API.",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Kosmetos",
+            "email": "jkosmetos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
